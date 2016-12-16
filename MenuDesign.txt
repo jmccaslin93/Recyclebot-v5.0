@@ -1,0 +1,75 @@
+0	1	2	3	4	5 //mode
+
+<- State
+											/directory
+0 Display										0
+1 	Back										1
+2 	Manual										
+3 		Back									3
+4		Cooling
+62			Back								4
+5			Fan
+63				Back							5
+6				Fan Power
+64					Back						6
+7					On
+8					Off
+9				Speed  //setting screen 67, dir 22
+10			Water Bath
+65				Back, dir 30
+11				Bath Power
+66					Back						7
+12					On
+13					Off
+14 		Servo
+15			Back								8
+16			SpoolWidth
+17				Back							9
+18				Start // 68, dir 23
+19				Stop // 69, dir 24
+20			Position // 70, dir 25
+21			FilamentDiameter/StepSize
+71				Back							21
+72				1.75 mm							
+73				3.0 mm
+22		Puller
+23			Back								10
+24			Puller Power
+25				Back							11
+26				On
+27				Off
+		77	Speed //78, dir 26
+28		Auger
+29			Back								12
+30			Auger Power
+31				Back							13
+32				On
+33				Off
+34			Speed //74, dir 27
+35		Winder
+36			Back								14
+37			Winder Power
+38				Back							15
+39				On
+40				Off
+41			Speed // 75, dir 28
+42		Heater
+43			Back								16
+44			Heater Power
+45				Back							17
+46				On
+47				Off
+48			Temperature // 76, dir 29
+49	Auto										//2 (possibly incorrect)
+50		Back									18
+51		Plastic Type
+52			Back								19
+53			RegularPLA
+54			Recycled PLA
+55			Recycled ABS
+56			Recycled TPE
+57		Diameter
+58		Spool Width
+59			Back								20
+60			Start
+61			Stop
