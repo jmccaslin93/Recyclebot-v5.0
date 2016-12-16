@@ -1,4 +1,7 @@
-
+//All Menu is based off of the MenuDesign.txt file, associated in the same folder.
+//Each menu has a directory, so the system knows where it is at all times.
+//Each line is a state, so the screen knows how to update and what to do if the button is clicked.
+//Include the screenUpdate file with this code for the full program.
 
 //reference http://www.instructables.com/id/Easy-Arduino-Menus-for-Rotary-Encoders/step2/Code/
 #include <math.h>
